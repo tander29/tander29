@@ -5,7 +5,7 @@
 - 😄 My Current Job involves React and Scala!
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tander29&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tander29&layout=compact&theme=vue-dark)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tander29&show_icons=true&theme=merko)
 
