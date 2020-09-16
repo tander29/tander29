@@ -5,11 +5,9 @@
 - 😄 My Current Job involves React and Scala!
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tander29&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tander29&layout=compact&theme=vue-dark&count_private=true)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tander29&show_icons=true&theme=merko)
-
- My current job's repos are private and don't seem to add to the stats, so just imagine there is more javascript, scala, scss, and a dash of python/sql
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tander29&show_icons=true&theme=merko&count_private=true)
 
 
 ## Reach Me Through Linked In
