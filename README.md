@@ -3,10 +3,6 @@
 - 🔭 I’m currently working on learning Gatsby and Node/Express
 - 🌱 I have dabbled with Javascript/React, Python/Django, Typescript, and Go lang
 - 😄 My Current Job involves React and Scala!
--  📫 How to reach me: 
-- [<img align="left" alt="anderson-travis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tander29&layout=compact)
@@ -14,6 +10,11 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tander29&show_icons=true&theme=merko)
 
  My current job's repos are private and don't seem to add to the stats, so just imagine there is more javascript, scala, scss, and a dash of python/sql
+
+
+## Reach Me Through Linked In
+- [<img align="left" alt="anderson-travis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <!--  
 Variables
