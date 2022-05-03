@@ -5,15 +5,9 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tander29&show_icons=true&theme=merko&count_private=true&hide=stars,contribs,issues)
 
 
-## Reach Me Through Linked In
-- [<img align="left" alt="anderson-travis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 <!--  
 Variables
 -->
-
-[linkedin]: https://www.linkedin.com/in/anderson-travis/
 
 <!--
 
