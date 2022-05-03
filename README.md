@@ -1,9 +1,4 @@
-### Oh Hi! 👋 I am Travis
-
-- 🔭 I’m currently working on learning Gatsby and Node/Express
-- 🌱 I have dabbled with Javascript/React, Python/Django, Typescript, and Go lang
-- 😄 My Current Job involves React and Scala!
-
+###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tander29&layout=compact&theme=vue-dark&count_private=true)
 
