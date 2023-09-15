@@ -2,11 +2,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tander29&layout=compact&theme=vue-dark&count_private=true)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tander29&show_icons=true&theme=merko&count_private=true&hide=stars,contribs,issues)
-
 
 <!--  
 Variables
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tander29&show_icons=true&theme=merko&count_private=true&hide=stars,contribs,issues)
 -->
 
 <!--
